@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Kariyer Radar Banner" />
+</div>
+
 # Kariyer Radar — Multi-Sector Job Aggregation Engine & FastAPI Dashboard
 
 [![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
