@@ -1,0 +1,11 @@
+name: Bug Report
+description: Report a portal adapter or storage bug
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Description
+    validations:
+      required: true

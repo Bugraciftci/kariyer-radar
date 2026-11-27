@@ -4,6 +4,8 @@
 
 # Kariyer Radar — Multi-Sector Job Aggregation Engine & FastAPI Dashboard
 
+[![CI](https://github.com/Bugraciftci/kariyer-radar/actions/workflows/ci.yml/badge.svg)](https://github.com/Bugraciftci/kariyer-radar/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-0EA5E9?style=for-the-badge)](https://github.com/Bugraciftci/kariyer-radar/releases/tag/v1.0.0)
 [![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
